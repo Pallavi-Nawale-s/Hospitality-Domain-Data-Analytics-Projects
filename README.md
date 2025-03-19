@@ -15,6 +15,7 @@ The primary tasks for this data analytics project were:
 4.Develop Analytical Dashboards
 
 Data Sets Used
+
 dim_date:Dates, week numbers, day types.
 
 dim_hotels: Property ID, name, category, cities.
@@ -28,9 +29,11 @@ fact_bookings: Booking ID, property ID, dates, guests, room category, booking pl
 Metrics List: Various key measures and DAX formulas.
 
 Dashboard and Report
+
 This project showcases the power of data analytics in transforming the hospitality industry. By analyzing key metrics, guest feedback, and booking patterns, we uncovered actionable insights to enhance efficiency, elevate guest experiences, and boost revenue. These data-driven strategies position the business for sustained success, customer loyalty, and competitiveness in a dynamic market.
 
 Key Financial Metrics
+
 Revenue, RevPAR (Revenue per available room), ADR (Average Daily Rate).
 Performance Metrics
 Cancellation %, Average Rating, Day Type, Booking Platforms, Week Number, Property Name and ID.
@@ -54,9 +57,11 @@ Weekday vs. Weekend Performance: Weekdays generate more revenue (1070M) than wee
 Weekly Trends: A sharp decline in both revenue and bookings is visible after week 27, suggesting possible seasonality or operational issues.
 
 Project Files
+
 Data File: Not publicly available.
 
 Presentation: Not publicly available.
 
 Acknowledgments
+
 Codebasics for the challenge opportunity.
