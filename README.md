@@ -1,8 +1,9 @@
 # Hospitality-Domain-Data-Analytics-Project
+
 Overview
 
 Hospitality Analytics involves the process of collecting, analyzing, and interpreting data specific to the hospitality industry to improve guest experiences, optimize operations, and drive better business decisions. It leverages data to enhance customer satisfaction, manage resources efficiently, increase occupancy rates, and improve revenue management strategies. By analyzing booking trends, customer feedback, and operational metrics, businesses can provide personalized experiences and gain a competitive edge.
-
+        
 Objectives
 
 The primary tasks for this data analytics project were:
